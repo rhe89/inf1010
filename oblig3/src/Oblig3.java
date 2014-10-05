@@ -234,6 +234,9 @@ class PersonBeholder {
 				funnet = true;
 			}
 		}
+
+
+
 		return funnet;
 	}
 
