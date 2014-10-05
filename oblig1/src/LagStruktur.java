@@ -16,6 +16,10 @@ class LagStruktur {
         ramzi = new Person("Ramzi", 3);
 
         //Oppretter tilstandene for hvert Person-objekt
+
+
+
+
         jeg.blirKjentMed(lisa);
         jeg.blirKjentMed(emil);
         jeg.blirKjentMed(ramzi);
