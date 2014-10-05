@@ -17,9 +17,6 @@ class LagStruktur {
 
         //Oppretter tilstandene for hvert Person-objekt
 
-
-
-
         jeg.blirKjentMed(lisa);
         jeg.blirKjentMed(emil);
         jeg.blirKjentMed(ramzi);
