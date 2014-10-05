@@ -37,6 +37,8 @@ class Person {
             teller++;
 
         }
+
+
     }
 
     public void blirForelsketI(Person p) {
