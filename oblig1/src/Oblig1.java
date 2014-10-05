@@ -8,5 +8,9 @@ class Oblig1 {
 		//leggTilObjekter-metoden i lagStruktur-klassen
 		LagStruktur lag = new LagStruktur();
 		lag.leggTilObjekter();
+
+
+
+
 	}
 }
